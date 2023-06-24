@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rayan Cooray</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img src= "https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
+<img src= "https://www.digitalsilk.com/wp-content/uploads/2022/09/website-development-process-1.jpg">
 
 - 🔭 I’m currently working on [Portfolio project >](https://github.com/RayanCooray/MyPortFolioGDSE65.git)
 
