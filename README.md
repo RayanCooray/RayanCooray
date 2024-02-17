@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img src= "https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif">
 
-- 🔭 I’m currently working on [Portfolio project >](https://github.com/RayanCooray/MyPortFolioGDSE65.git)
+- 🔭 I’m currently working on [Social Media App >]()
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayanCooray](https://github.com/RayanCooray)
 
