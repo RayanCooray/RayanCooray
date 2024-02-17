@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rayan Cooray</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img src= "[https://www.digitalsilk.com/wp-content/uploads/2022/09/website-development-process-1.jpg](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)">
+<img src= "https://www.digitalsilk.com/wp-content/uploads/2022/09/website-development-process-1.jpg](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)">
 
 - 🔭 I’m currently working on [Portfolio project >](https://github.com/RayanCooray/MyPortFolioGDSE65.git)
 
