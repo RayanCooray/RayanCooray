@@ -13,7 +13,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rayan cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan cooray" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rayan-cooray-3193a1262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan cooray" height="30" width="40" /></a>
 <a href="https://fb.com/rayan cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan cooray" height="30" width="40" /></a>
 <a href="https://instagram.com/rayan_cooray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayan_cooray" height="30" width="40" /></a>
 <a href="https://medium.com/@raycooray32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raycooray32" height="30" width="40" /></a>
