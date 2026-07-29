@@ -49,7 +49,8 @@ at Novo Soft Technologies, while completing my BSc (Hons) in Software Engineerin
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software Engineer (Freelance) | Novo Soft Technologies Pvt Ltd | 2025 – Present |
+| Software Engineer (Full Time) | Surecore Pvt Ltd | 2026 (May) – Present |
+| Software Engineer (Part Time) | Novo Soft Technologies Pvt Ltd | 2025 – Present |
 | Associate Software Engineer | Healthify Pvt Ltd | 2025 – 2026 (Contract) |
 | Trainee Associate Software Engineer | Biz Software Solutions Pvt Ltd | Aug 2024 – Feb 2025 |
 ---
