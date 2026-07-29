@@ -71,6 +71,4 @@ at Novo Soft Technologies, while completing my BSc (Hons) in Software Engineerin
 
 ---
 
-<p align="center">
-  <em>Open to Software Engineer & Mid-Level Software Engineer opportunities</em>
-</p>
+
